@@ -34,7 +34,7 @@ ALLOWED_HOSTS = []
 
 # Application definition
 
-LOCAL_APPS = ['core', 'products']
+LOCAL_APPS = ['core', 'products' , 'warehouses']
 
 THIRD_PARTY_APPS = [
 
