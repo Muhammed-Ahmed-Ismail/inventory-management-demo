@@ -14,3 +14,5 @@ class Warehouse(BaseModel):
     @property
     def location(self):
         return self.longitude, self.latitude
+
+
