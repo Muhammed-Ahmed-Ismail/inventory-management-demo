@@ -7,6 +7,7 @@
  - add/draw products to/from warehouses
 
 ## Run
+    $ cp .env.example .env 
 
     $ docker compose up
 
